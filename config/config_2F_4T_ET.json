@@ -1,0 +1,38 @@
+{
+  "NumTrack": {
+    "value": 4,
+    "description": "Number of tracks"
+  },
+  "MetalOneStep": {
+    "value": 60,
+    "description": "Metal 1 Step Size"
+  },
+  "MetalThreeStep": {
+    "value": 80,
+    "description": "Metal 3 Step Size"
+  },
+  "DRTYPE_Parameter": {
+    "value": "ET",
+    "description": "EUV Tight or EUV Loose"
+  },
+  "EXT_Parameter": {
+    "value": 0,
+    "description": "0: Disable 1: Enable BCP(Default)"
+  },
+  "MPL_Parameter": {
+    "value": 2,
+    "description": "3: (Default) Minimum Pin Opening"
+  },
+  "ML_Parameter": {
+    "value": 5,
+    "description": "5: (Default) Min Metal Length for avoiding adjacent signal routing (only works with special net setting)"
+  },
+  "tolerance_Parameter": {
+    "value": 3,
+    "description": "Localization Offset Margin, Integer"
+  },
+  "XOL_Parameter": {
+    "value": 2,
+    "description": "Depends on XOL_Mode"
+  }
+}
